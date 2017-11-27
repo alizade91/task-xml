@@ -1,0 +1,7 @@
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\bin\Debug\BookXsltTransform.exe.config
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\bin\Debug\BookXsltTransform.exe
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\bin\Debug\BookXsltTransform.pdb
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\obj\Debug\BookXsltTransform.csprojResolveAssemblyReference.cache
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\obj\Debug\BookXsltTransform.csproj.CoreCompileInputs.cache
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\obj\Debug\BookXsltTransform.exe
+c:\users\alizada\source\repos\task-xml\BookXsltTransform\obj\Debug\BookXsltTransform.pdb

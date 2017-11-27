@@ -1,0 +1,7 @@
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\bin\Debug\ExchangeFileVerifier.exe.config
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\bin\Debug\ExchangeFileVerifier.exe
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\bin\Debug\ExchangeFileVerifier.pdb
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\obj\Debug\ExchangeFileVerifier.csprojResolveAssemblyReference.cache
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\obj\Debug\ExchangeFileVerifier.csproj.CoreCompileInputs.cache
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\obj\Debug\ExchangeFileVerifier.exe
+c:\users\alizada\source\repos\task-xml\ExchangeFileVerifier\obj\Debug\ExchangeFileVerifier.pdb

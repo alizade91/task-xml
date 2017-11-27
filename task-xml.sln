@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeFileVerifier", "ExchangeFileVerifier\ExchangeFileVerifier.csproj", "{A19D4D20-A023-46F4-A86F-64EE0CC70907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookXsltTransform", "BookXsltTransform\BookXsltTransform.csproj", "{8729C231-578F-41B4-B20F-6A8FA5308C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19D4D20-A023-46F4-A86F-64EE0CC70907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19D4D20-A023-46F4-A86F-64EE0CC70907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19D4D20-A023-46F4-A86F-64EE0CC70907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19D4D20-A023-46F4-A86F-64EE0CC70907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8729C231-578F-41B4-B20F-6A8FA5308C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8729C231-578F-41B4-B20F-6A8FA5308C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8729C231-578F-41B4-B20F-6A8FA5308C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8729C231-578F-41B4-B20F-6A8FA5308C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A47F319-20DD-4FF1-AB3C-1F27E3259316}
+	EndGlobalSection
+EndGlobal
